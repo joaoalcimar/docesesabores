@@ -1,0 +1,26 @@
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
+export const USER_LOADED = 'USER_LOADED';
+export const AUTH_ERROR = 'AUTH_ERROR';
+export const LOGIN_SUCCESS = 'AUTH_SUCCESS';
+export const LOGIN_FAIL = 'AUTH_FAIL';
+export const LOGOUT = 'LOGOUT';
+
+export const GET_LENREC = 'GET_LENREC';
+export const LIST_RECIPES = 'LIST_RECIPES';
+export const ADD_RECIPE = 'ADD_RECIPE';
+export const POPULATE_RECIPE = 'POPULATE_RECIPE';
+export const EDIT_RECIPE = 'EDIT_RECIPE';
+export const GET_RECIPE = 'GET_RECIPE';
+export const SELECT_RECIPE = 'SELECT_RECIPE';
+export const DELETE_RECIPE = 'DELETE_RECIPE';
+export const RECIPE_ERROR = 'RECIPE_ERROR';
+
+export const GET_LENING = 'GET_LENING';
+export const LIST_INGREDIENTS = 'LIST_INGREDIENTS';
+export const ADD_INGREDIENT = 'ADD_INGREDIENT';
+export const SELECT_INGREDIENT = 'SELECT_INGREDIENT';
+export const EDIT_INGREDIENT = 'EDIT_INGREDIENT';
+export const GET_INGREDIENT = 'GET_INGREDIENT';
+export const DELETE_INGREDIENT = 'DELETE_INGREDIENT';
+export const INGREDIENT_ERROR = 'INGREDIENT_ERROR';
